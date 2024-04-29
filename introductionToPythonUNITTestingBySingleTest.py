@@ -29,5 +29,18 @@ Note:
              function but before that finction name need to user test. for example: if i want to create one function whos name is 'loging' so you have to use 
              like that 'testlogin'. after tst you can chose anything.
     tearDown() : tearDown() function basically use for close the window/connection. that function name can not be modified.
-     
+
+'''
+
+''' 
+outPut : 
+        setUp function execting
+        test1 function execting
+        tearDown function execting
+        .
+        ----------------------------------------------------------------------
+        Ran 1 test in 0.000s
+
+        OK
+
 '''
